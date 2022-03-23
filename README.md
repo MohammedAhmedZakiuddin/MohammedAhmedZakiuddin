@@ -1,8 +1,8 @@
-Hi there 👋. I hope you are having great day.
+### cHi there 👋. I hope you are having great day.
 
 I am Ahmed - an aspiring software devveloper & engineer and open source contributor.
 
-About Me: 
+### About Me: 
 - 🔎 I love rewriting existing software to learn more about how they have been built.
 - 💻 My favorite languages are C, Java and Python.
 - 🔭 I’m currently working on creating a webpage. 
@@ -22,6 +22,8 @@ About Me:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 
 <br />
 <br />
