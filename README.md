@@ -14,9 +14,8 @@ About Me:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/color/344/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-light-mode-only)
-[![website](https://img.icons8.com/color/344/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-dark-mode-only)
-
+[![website](https://img.icons8.com/color/2x/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/2x/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-dark-mode-only)
 
 🔨 Languages and Tools:
    
