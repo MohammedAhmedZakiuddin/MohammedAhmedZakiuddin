@@ -1,4 +1,4 @@
-### Hi there �👋 . I hope you are having a great day.
+### Hi there 👋. I hope you are having a great day.
 
 I am Ahmed - an aspiring software developer & engineer and an open source contributor.
 
@@ -19,6 +19,9 @@ I am Ahmed - an aspiring software developer & engineer and an open source contri
 &nbsp;&nbsp;
 [<img align="left"> ![website](https://img.icons8.com/color/0.80x/gmail-new.png)](https://mail.google.com/mail/u/ahmedzaki3721@gmail.com#gh-light-mode-only)
 [<img align="left"> ![website](https://img.icons8.com/color/0.80x/gmail-new.png)](https://mail.google.com/mail/u/ahmedzaki3721@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[<img align="left"> ![website](https://img.icons8.com/color/0.80x/slack-new.png)](https://github-i0w2649.slack.com#gh-light-mode-only)
+[<img align="left"> ![website](https://img.icons8.com/color/0.80x/gmail-new.png)](https://github-i0w2649.slack.com#gh-dark-mode-only)
 
 
 ### 🔨 Languages and Tools:
