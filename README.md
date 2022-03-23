@@ -1,6 +1,6 @@
-### Hi there 👋. I hope you are having great day.
+### Hi there 👋. I hope you are having a great day.
 
-I am Ahmed - an aspiring software developer & engineer and open source contributor.
+I am Ahmed - an aspiring software developer & engineer and an open source contributor.
 
 ### About Me: 
 - 🔎 I love rewriting existing software to learn more about how they have been built.
