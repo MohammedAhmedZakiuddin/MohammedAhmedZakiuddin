@@ -39,4 +39,5 @@ About Me:
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)   
 
 
- [linkedin]: https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/
+<br />
+<br />
