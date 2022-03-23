@@ -1,4 +1,4 @@
-### Hi there 👋. I hope you are having a great day.
+### Hi there �👋 . I hope you are having a great day.
 
 I am Ahmed - an aspiring software developer & engineer and an open source contributor.
 
@@ -7,7 +7,7 @@ I am Ahmed - an aspiring software developer & engineer and an open source contri
 - 💻 My favorite languages are C, Java and Python.
 - 🔭 I’m currently working on creating a webpage. 
 - 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on improving run time efficiecny on my leet code and kaggle solutions. 
+- 👯 I’m looking to collaborate with other software developers on improving run time efficiecny on my leet code and kaggle solutions. 
 - 💬 Ask me about any questions related to my repositories. 
 - 📫 You can reach me through my email address: ahmedzaki3721@gmail.com
 
