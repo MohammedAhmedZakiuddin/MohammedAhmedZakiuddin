@@ -14,7 +14,10 @@ About Me:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-dark-mode-only)
+
 
 🔨 Languages and Tools:
-    
+   
+ [linkedin]: https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/
