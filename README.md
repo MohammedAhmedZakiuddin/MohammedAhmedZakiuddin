@@ -11,5 +11,11 @@ About Me:
 - 💬 Ask me about any questions related to my repositories. 
 - 📫 You can reach me through my email address: ahmedzaki3721@gmail.com
 
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+
 🔨 Languages and Tools:
     
