@@ -16,6 +16,10 @@ I am Ahmed - an aspiring software devveloper & engineer and open source contribu
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/color/1x/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-light-mode-only)
 [![website](https://img.icons8.com/color/1x/linkedin.png)](https://www.linkedin.com/in/mohammed-ahmed-zakiuddin-00138917b/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/2x/gmail-new.png)](https://img.icons8.com/color/2x/gmail-new.png#gh-light-mode-only)
+[![website](https://img.icons8.com/color/2x/gmail-new.png)](https://img.icons8.com/color/2x/gmail-new.png#gh-dark-mode-only)
+
 
 ### 🔨 Languages and Tools:
 
