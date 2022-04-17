@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Dallas, Texas
 * ✉️  You can contact me at [ahmedzaki3721@gmail.com](mailto:ahmedzaki3721@gmail.com)
 * 🧠  I'm learning React JS.
-* 🤝  I'm open to collaborating on on slack.
+* 🤝  I'm open to collaborating on slack.
 
 ### Skills
 
