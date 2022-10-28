@@ -4,8 +4,6 @@ Hi 👋 My name is Zakiuddin
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Dallas, Texas
-* ✉️  You can contact me at [ahmedzaki3721@gmail.com](mailto:ahmedzaki3721@gmail.com)
 * 🧠  I'm learning React Native, Machine Learning (Python). 
 * 🤝  Connect with me on Linkedin. 
 
