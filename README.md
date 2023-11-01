@@ -4,7 +4,7 @@ Hi 👋 My name is Zakiuddin
 Full Stack Developer
 --------------------
 
-* 🧠  I'm learning React Native, Machine Learning (Python). 
+* 🧠  I'm learning JavaScript & its libraries. 
 * 🤝  Connect with me on Linkedin. 
 
 ### Skills
