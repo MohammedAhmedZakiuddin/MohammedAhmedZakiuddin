@@ -3,9 +3,9 @@ Hi 👋 My name is Zakiuddin
 
 Full Stack Developer
 --------------------
-
-* 🧠  I'm learning JavaScript & its libraries. 
-* 🤝  Connect with me on Linkedin. 
+ 
+* 🤝  Connect with me on Linkedin.
+* 🧠   I am proficient in various programming languages and technologies, and I am dedicated to continuous learning to stay updated and enhance my skills. I strive to keep myself informed about the latest industry trends and advancements, making it a part of my daily routine to acquire new knowledge and improve my capabilities.
 
 ### Skills
 
