@@ -7,6 +7,60 @@ Full Stack Developer
 * 🤝  Connect with me on Linkedin.
 * 🧠   I am proficient in various programming languages and technologies, and I am dedicated to continuous learning to stay updated and enhance my skills. I strive to keep myself informed about the latest industry trends and advancements, making it a part of my daily routine to acquire new knowledge and improve my capabilities.
 
+<h4 class="my-0 fw-normal text-dark">Skills</h4>
+<p>
+  I possess proficiency in a wide range of languages and technologies, including but not limited to:
+</p>
+<ul>
+  <li>Front-End Web Development</li>
+  <ul>
+    <li>HTML 5</li>
+    <li>CSS 3</li>
+    <li>Flexbox</li>
+    <li>Grid</li>
+    <li>Bootstrap 5</li>
+    <li>Javascript ES6</li>
+    <li>DOM Manipulation</li>
+    <li>jQuery</li>
+    <li>Bash Command Line</li>
+    <li>Git, GitHub, and Version Control</li>
+  </ul>
+  <li>Backend Web Development</li>
+  <ul>
+    <li>Node.js</li>
+    <li>NPM</li>
+    <li>Express.js</li>
+    <li>EJS</li>
+    <li>REST</li>
+    <li>APIs</li>
+    <li>Databases</li>
+    <ul>
+      <li>SQL</li>
+      <li>PostgreSQL</li>
+      <li>Authentication</li>
+      <li>Firebase</li>
+    </ul>
+  </ul>
+  <li>React.js</li>
+  <ul>
+    <li>React Hooks</li>
+  </ul>
+  <li>Web Design</li>
+  <ul>
+    <li>Deployment with GitHub Pages</li>
+  </ul>
+  <li>Web3 Development on the Internet Computer</li>
+  <ul>
+    <li>Blockchain technology</li>
+    <li>Token contract development</li>
+    <li>NFT minting, buying, and selling logic</li>
+  </ul>
+</ul>
+<p>
+  I am dedicated to continuous learning, actively staying abreast of industry trends, and consistently seeking opportunities to further enhance my skills.
+</p>
+
+
 ### Skills
 
 <p align="left">
