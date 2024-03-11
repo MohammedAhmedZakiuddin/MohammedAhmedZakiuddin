@@ -19,6 +19,7 @@ Full Stack Developer
     <li>Flexbox</li>
     <li>Grid</li>
     <li>Bootstrap 5</li>
+    <li>Tailwind CSS</li>
     <li>Javascript ES6</li>
     <li>DOM Manipulation</li>
     <li>jQuery</li>
